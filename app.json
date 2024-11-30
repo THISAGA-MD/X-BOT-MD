@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "A-S-W-I-N-S-P-A-R-K-Y:b8eee098bc4aba6bde19b49056937e65",
       "required": true
     },
     "HANDLERS": {
@@ -17,9 +17,9 @@
       "value": "."
     },
     "SUDO": {
-      "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
+      "description": "94719357076",
       "required": true,
-      "value": "917012984396"
+      "value": "94719357076"
     },
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",
